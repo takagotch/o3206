@@ -32,6 +32,21 @@
 ```
 
 ```
+// format
+MP4
+WMV
+HEVC
+AVI
+MOV
+F4V
+MKV
+TS
+3GP
+MPEG-2
+WEBM
+GIF
+MP2F
+wfp 
 ```
 
 
