@@ -32,5 +32,14 @@
 ```
 
 
+```
+// TITLE
+telop (television opaque projector), 図形
+字幕　
 
+opeing
+title
+ending
+
+```
 
